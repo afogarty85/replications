@@ -1,0 +1,148 @@
+id,ccode,countryname,yrst,most,yrend,moend,conflict,region,gdpcapita_fl,roughterrain,milper,marxistins,newpostcomm,technologyrebellion,ethnicwar,post1990
+1,AFG1,Afghanistan,1978,4,1992,2,"Mujahideen, PDPA",MENA,0.977999985,65.6000061,143,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+2,AFG2,Afghanistan,1992,2,1996,9,Taliban v. Burhanuddin Rabbani,MENA,1.769000053,65.6000061,45,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+3,AFG3,Afghanistan,1996,9,2001,10,United Front v. Taliban,MENA,NA,65.6000061,NA,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+4,ALG2,Algeria,1992,1,NA,NA,"FIS, AIS, GIA, GSPC",MENA,2.720000029,15.69999981,126,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+5,ANG1,Angola,1975,11,1991,5,UNITA,SubAfrica,0.731000006,9.700000763,NA,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+6,ANG2,Angola,1992,9,1994,11,UNITA,SubAfrica,0.656000018,9.700000763,150,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+7,ANG3,Angola,1997,1,2002,NA,UNITA,SubAfrica,2.605000019,9.700000763,95,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+8,ANG4,Angola,1994,NA,1999,12,Cabinda; FLEC,SubAfrica,0.442999989,9.700000763,128,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+9,ARG1,Argentina,1955,6,1955,9,Peron v. military,Lamerica,3.971999884,28.3999958,71,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+11,AZE,Azerbaijan,1991,4,1994,10,Nagorno-Karabakh,Eurasia,3.194000006,25.60000038,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+12,BGL,Bangladesh,1974,1,1997,12,Chittagong Hills/Shanti Bahini,Asia,0.957000017,0,86,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+13,BOL,Bolivia,1952,4,1952,4,MNR rebellion in La Paz,Lamerica,1.396000028,35.89999771,9,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+14,BOS,Bosnia,1992,3,1995,11,Rep. Srpska/Croats,Eurasia,NA,60.5,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+15,BUR1,Burundi,1965,10,1969,4,Hutu uprising,SubAfrica,0.453000009,74.49997711,2,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+16,BUR3,Burundi,1988,8,1988,8,Org. massacres on both sides,SubAfrica,0.537999988,74.49998474,10,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+17,BUR4,Burundi,1991,11,NA,NA,Hutu groups v. govt,SubAfrica,0.569000006,74.49998474,12,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+18,CAF,Central African Republic,1996,4,1997,1,Factional fighting,SubAfrica,0.54400003,4.400000095,4,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+19,CAM1,Cambodia,1970,3,1975,1,FUNK; Khmer,Asia,0.915000021,1,85,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+20,CAM2,Cambodia,1975,5,1991,10,"Khmer Rouge, FUNCINPEC, etc",Asia,0.421999991,1,220,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+21,CHD1,Chad,1965,10,1979,6,"FROLINAT, various ...",SubAfrica,0.744000018,8.5,2,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+22,CHD2,Chad,1980,3,1994,6,FARF; FROLINAT,SubAfrica,0.574000001,8.5,5,Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+23,CHD3,Chad,1994,6,1997,8,FARF; FROLINAT,SubAfrica,0.333000004,8.5,30,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+24,CHI1,China,1946,3,1949,1,PLA,Asia,0.232999995,37.40000153,4775,Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+25,CHI2,China,1947,2,1947,3,Taiwanese v. Nationalist soldiers,Asia,0.225999996,37.40000153,4158,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+26,CHI3,China,1950,2,1951,4,re-annexation,Asia,0.254000008,37.40000153,2570,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+27,CHI4,China,1956,3,1959,3,Tibetan uprising,Asia,0.354999989,37.40000153,3000,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+29,COL1,Colombia,1948,4,1966,NA,La Violencia,Lamerica,1.414000034,37.09999847,17,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Pre-1991
+30,COL2,Colombia,1978,11,NA,NA,"FARC, ELN, drug cartels, etc",Lamerica,2.648000002,37.09999847,60,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+31,CON1,Congo – Brazzaville,1993,5,1997,10,Lissouba v. Sassou-Nguesso,SubAfrica,2.24000001,0,10,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+32,CON2,Congo — Brazzaville,1998,8,1999,12,Cobras v. Ninjas,SubAfrica,1.799999952,0,10,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+33,COS,Costa Rica,1948,3,1948,4,NLA,Lamerica,1.335000038,22.20000267,1,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+34,CRO1,Yugoslavia,1991,5,1991,12,Croatia/Krajina,Eurasia,4.547999859,13.40000057,180,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+35,CRO2,Croatia,1992,2,1995,12,"Krajina, Medak, Western Slavonia",Eurasia,NA,3.609251261,103,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+36,CUB,Cuba,1958,6,1959,1,Castro revolution,Lamerica,2.694999933,4.441784382,19,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+37,CYP1,Cyprus,1963,11,1967,10,GC-TC civil war,Eurasia,2.437000036,9,1,Non-Marxist Insurgents,0,SNC,Ethnic CW,Pre-1991
+38,DJI,Djibouti,1991,11,1994,12,FRUD,SubAfrica,1.366999984,3.899999857,4,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Post-1990
+39,DOM,Dominican Republic,1965,4,1965,9,Mil. coup,Lamerica,1.503999949,16.39999771,19,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+40,EGY,Egypt,1994,2,1997,9,Gamaat Islamiya; Islamic Jihad,MENA,1.883000016,1,424,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Post-1990
+41,ETH1,Ethiopia,1974,1,1991,5,Eritrean war of independence,SubAfrica,0.305999994,70.39998627,50,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+42,ETH2,Ethiopia,1978,3,1991,5,Ideological; Tigrean,SubAfrica,0.305999994,70.39998627,225,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+43,ETH3,Ethiopia,1976,1,1988,4,Ogaden; Somalis,SubAfrica,0.305999994,70.39998627,50,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+44,GBS,Guinea-Bissau,1998,6,1999,5,Vieira v. Mane mutiny,SubAfrica,0.685000002,0,7,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Post-1990
+45,GRE,Greece,1944,12,1949,10,EDES/ELAS; EAM,Eurasia,0.806999981,21.79999924,NA,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+46,GRG1,Georgia,1991,1,1992,7,South Ossetia,Eurasia,3.828000069,60.79999542,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+47,GRG2,Georgia,1992,7,1994,1,Abkhazia (& Gamsakhurdia),Eurasia,3.828000069,60.79999924,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+48,GUA1,Guatemala,1966,10,1972,12,Communists;,Lamerica,1.781000018,42.09999466,10,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+49,GUA2,Guatemala,1978,3,1994,4,Communists; Indigenous,Lamerica,2.51699996,42.09999466,14,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+50,HAI,Haiti,1991,10,1995,12,Cedras v. Aristide,Lamerica,0.851000011,15.39999866,8,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+51,IDN1,Indonesia,1950,7,1950,12,Rep. S. Moluccas,Asia,0.300000012,10.5,200,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+52,IDN2,Indonesia,1953,9,1953,11,Darul Islam,Asia,0.389999986,10.5,200,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+53,IDN3,Indonesia,1956,12,1960,12,"Darul Islam, PRRI, Permesta",Asia,0.513999999,10.5,199,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+54,IDN4,Indonesia,1976,NA,1978,NA,OPM (West Papua),Asia,0.953000009,10.5,260,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+55,IDN5,Indonesia,1975,12,1999,10,East Timor,Asia,0.89200002,10.5,270,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+56,IDN6,Indonesia,1990,NA,1991,NA,Aceh,Asia,1.825999975,10.5,285,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+57,IDN7,Indonesia,1999,NA,2002,12,Aceh,Asia,2.335000038,10.5,280,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+58,IND1,India,1989,12,NA,NA,Kashmir,Asia,1.203999996,12.90000057,1360,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+59,IND2,India,1984,2,1993,12,Sikhs,Asia,0.986000001,12.90000057,1104,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+60,IND3,India,1989,NA,NA,NA,Naxalites (CPI-M; PWG; MCC),Asia,1.203999996,12.90000057,1360,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+61,IND4,India,1990,11,NA,NA,Assam; Northeast States,Asia,1.235000014,12.90000057,1260,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+63,IRN2,Iran,1979,3,1984,7,KDPI (Kurds),MENA,6.076000214,38.29999924,350,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+64,IRQ1,Iraq,1959,6,1959,10,Shammar,MENA,2.963999987,5.999999523,64,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+65,IRQ2,Iraq,1961,9,1970,3,"KDP, PUK (Kurds)",MENA,3.427000046,5.999999523,74,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+66,IRQ3,Iraq,1974,3,1975,4,"KDP, PUK (Kurds)",MENA,4.644999981,5.999999523,105,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+67,IRQ4,Iraq,1985,1,1996,10,Kurds; Anfal,MENA,4.927000046,5.999999523,788,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+68,IRQ5,Iraq,1991,3,1993,12,Shiite uprising,MENA,6.243000031,5.999999523,1390,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+71,JRD,Jordan,1970,2,1971,7,Fedeyeen/Syria v. govt,MENA,1.677999973,14.19999886,60,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+72,KEN1,Kenya,1963,NA,1967,NA,Shifta war (Somalis),SubAfrica,0.621999979,26.29999924,NA,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+73,KEN2,Kenya,1991,10,1993,9,Rift valley ethnic violence,SubAfrica,0.911000013,26.29999924,20,Non-Marxist Insurgents,0,SNC,Ethnic CW,Post-1990
+74,KOR,Korea,1948,10,1949,4,Yosu Rebellion,Asia,0.507000029,8.900000572,NA,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+75,LAO,Laos,1960,10,1973,2,Pathet Lao,Asia,0.467000008,35.79999924,29,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+76,LBR1,Liberia,1989,12,1990,11,Doe v. rebels,SubAfrica,0.870999992,0.600000024,7,Non-Marxist Insurgents,0,SNC,Ethnic CW,Pre-1991
+77,LBR2,Liberia,1992,1,1997,7,NPLF; ULIMO; NPF; LPC; LDF,SubAfrica,0.744000018,0.600000024,5,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+78,LBR3,Liberia,1999,5,2003,NA,anti-Taylor resistance,SubAfrica,NA,0.600000024,NA,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+79,LEB1,Lebanon,1958,5,1958,9,Nasserites v. Chamoun,MENA,2.529999971,57.10000992,9,Non-Marxist Insurgents,0,SNC,Ethnic CW,Pre-1991
+80,LEB2,Lebanon,1975,4,1991,9,Aoun; militias; PLO; Israel,MENA,3.789999962,57.1000061,20,Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+81,MLD,Moldova,1991,12,1992,7,Transdniestria,Eurasia,3.479000092,0,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+82,MLI,Mali,1990,6,1995,NA,Tuaregs; Maurs,SubAfrica,0.555999994,0.400000006,8,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+83,MOR,Morocco/Western Sahara,1975,12,1991,NA,Polisario,MENA,1.432999969,46.20000458,65,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+84,MOZ,Mozambique,1976,NA,1992,7,RENAMO; FRELIMO,SubAfrica,1.182000041,2.400000334,20,Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+85,MYA1,Myanmar/Burma,1948,9,1951,7,Karen rebellion 1,Asia,0.202000007,35.60000229,NA,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+86,MYA2,Myanmar/Burma,1948,9,1988,NA,Communist insurgency,Asia,0.202000007,35.60000229,NA,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+87,MYA3,Myanmar/Burma,1960,NA,1995,3,various ethnic groups; Karen rebellion 2,Asia,0.294,35.60000229,67,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+88,NAM,Namibia,1973,1,1989,5,SWAPO; SWANU; SWATF,SubAfrica,NA,NA,NA,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+89,NIC1,Nicaragua,1978,10,1979,7,FSLN,Lamerica,2.760999918,9.300001144,6,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+90,NIC2,Nicaragua,1981,2,1990,4,Contras & Miskitos,Lamerica,1.853000045,9.300001144,24,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+91,NIG1,Nigeria,1967,1,1970,1,Biafra,SubAfrica,0.582000017,2.400000334,30,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+92,NIG2,Nigeria,1980,12,1985,4,Muslims; Maitatsine rebellion,SubAfrica,1.393000007,2.400000334,164,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+93,NPL,Nepal,1996,2,2006,NA,CPN-M/UPF (Maoists),Asia,1.175999999,73.69998932,40,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Post-1990
+94,OMN,Oman,1971,1,1975,3,Dhofar rebellion,MENA,5.883999825,2.800000191,NA,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+95,PAK1,Pakistan,1971,3,1971,12,Bangladesh secession,Asia,1.029000044,43,390,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+96,PAK2,Pakistan,1973,1,1977,7,Baluchistan,Asia,0.898000002,43.00000381,350,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+97,PAR,Paraguay,1947,3,1947,8,"Febreristas, Libs, Comms",Lamerica,1.031000018,1.100000024,4,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+98,PER,Peru,1980,7,1996,12,"Sendero Luminoso, Tupac Amaru",Lamerica,2.798000097,47.60000229,125,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+99,PHL1,Philippines,1950,9,1952,7,Huks,Asia,0.801999986,21.29999733,28,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+100,PHL2,Philippines,1972,9,1992,9,NPA,Asia,1.432000041,21.29999733,58,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+101,PHL3,Philippines,1971,NA,NA,NA,"MNLF, MILF",Asia,1.31099999,21.29999733,59,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+102,PNG1,Papua New Guinea,1988,11,1998,4,BRA (Bougainville),Asia,1.611999989,35.60000229,3,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+103,RUS1,Russia,1994,12,1996,8,Chechnya 1,Eurasia,5.535999775,14.19999886,1500,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+104,RUS2,Russia,1999,9,NA,NA,Chechnya 2,Eurasia,4.350999832,14.19999886,1000,Non-Marxist Insurgents,1,Irregular,Ethnic CW,Post-1990
+105,RWA1,Rwanda,1963,11,1964,2,Tutsi uprising,SubAfrica,0.467000008,73.3999939,1,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+106,RWA2,Rwanda,1990,9,1993,8,Hutu vs. Tutsi groups,SubAfrica,0.730000019,73.3999939,6,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+107,RWA3,Rwanda,1994,4,1994,7,RPF; genocide,SubAfrica,0.680999994,73.3999939,30,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+109,SAL,El Salvador,1979,10,1992,1,FMLN,Lamerica,2.329999924,10.30000019,11,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+110,SGL,Senegal,1989,1,1999,12,MFDC (Casamance),SubAfrica,1.172000051,0,14,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+111,SIE1,Sierra Leone,1991,3,1996,11,"RUF, AFRC, etc.",SubAfrica,0.901000023,1.700000048,5,Non-Marxist Insurgents,0,SNC,Non-Ethnic CW,Post-1990
+112,SOM1,Somalia,1988,5,1991,1,"SSDF, SNM (Isaaqs)",SubAfrica,0.800999999,12.59999943,50,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+113,SOM2,Somalia,1991,5,NA,NA,post-Barre war,SubAfrica,0.703000009,12.59999943,47,Non-Marxist Insurgents,0,SNC,Ethnic CW,Post-1990
+114,SOV1,USSR,1944,NA,1948,NA,Lithuania/BDPS,Eurasia,1.786999941,14.19999886,5112,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+115,SOV2,USSR,1944,NA,1947,NA,"Latvia/LTSPA, etc.",Eurasia,1.786999941,14.19999886,5112,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+116,SOV3,USSR,1944,NA,1950,NA,Ukraine/UPA,Eurasia,1.786999941,14.19999886,5112,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+117,SOV4,USSR,1944,NA,1948,NA,Estonia/Forest Brthers,Eurasia,1.786999941,14.19999886,5112,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+118,SRI1,Sri Lanka,1971,4,1971,5,JVP,Asia,1.243000031,7.300000191,10,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+119,SRI2,Sri Lanka,1983,7,2002,12,"LTTE, etc.",Asia,1.792000055,7.300000191,18,Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+120,SRI3,Sri Lanka,1987,9,1989,12,JVP II,Asia,2.048000097,7.300000191,22,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+121,SUD1,Sudan,1963,10,1972,3,Anya Nya,SubAfrica,0.887000024,6.500000477,18,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+122,SUD2,Sudan,1983,7,2002,7,"SPLM, SPLA, NDA, AnyanyaII",SubAfrica,0.870000005,6.500000477,86,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+124,TAJ,Tajikistan,1992,4,1997,6,Popular Democratic Army; UTO,Eurasia,2.275000095,81,NA,Non-Marxist Insurgents,1,Conventional,Ethnic CW,Post-1990
+125,THA,Thailand,1966,1,1982,12,Communists (CPT),Asia,1.136000037,5.400000095,132,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+126,TUR,Turkey,1984,8,1999,2,PKK (Kurds),Asia,2.90899992,71.30000305,824,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+127,UGA1,Uganda,1966,5,1966,6,Baganda rebellion,SubAfrica,0.614000022,9.399998665,6,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+128,UGA3,Uganda,1981,1,1987,1,"NRA/Museveni, etc",SubAfrica,0.533999979,9.399998665,6,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+129,UGA4,Uganda,1990,1,1992,7,Kony (pre-LRA),SubAfrica,0.547999978,9.399998665,40,Non-Marxist Insurgents,0,SNC,Ethnic CW,Pre-1991
+130,UGA5,Uganda,1995,1,NA,NA,"LRA, West Nile, ADF, etc.",SubAfrica,0.592000008,9.399998665,60,Non-Marxist Insurgents,0,SNC,Ethnic CW,Post-1990
+132,VTN,Vietnam,1960,1,1975,4,NLF,Asia,0.856000006,19.20000267,160,Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+133,YEM1,Yemen AR,1948,2,1948,3,Yahaya rebellion,MENA,0.050000001,27.20000076,18,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+134,YEM2,Yemen,1994,5,1994,7,South Yemen,MENA,NA,27.20000267,64,Non-Marxist Insurgents,1,Conventional,Non-Ethnic CW,Post-1990
+135,YEM3,Yemen AR,1962,11,1970,6,Royalists,MENA,0.150999993,27.20000076,1,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+136,YEM4,Yemen PR,1986,1,1986,1,Faction of Socialist Party,MENA,2.769999981,27.20000076,27,Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+137,YUG,Yugoslavia,1998,3,1999,3,Kosovo,Eurasia,NA,13.40000057,30,Non-Marxist Insurgents,1,Irregular,Ethnic CW,Post-1990
+138,ZAI1,Congo-Zaire,1960,7,1965,11,"Katanga, Kasai, Kwilu, Eastern",SubAfrica,0.488999993,4.199999809,NA,Non-Marxist Insurgents,0,SNC,Ethnic CW,Pre-1991
+139,ZAI2,Congo-Zaire,1967,7,1967,11,Kisangani mutiny,SubAfrica,0.61500001,4.199999809,25,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+140,ZAI3,Congo-Zaire,1977,11,1978,5,FLNC; Shabba 1 & 2,SubAfrica,0.584999979,4.199999809,55,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+141,ZAI5,Congo-Zaire,1996,10,1997,5,AFDL (Kabila),SubAfrica,0.224000007,4.199999809,40,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+142,ZAI6,Congo-Zaire,1998,8,2001,1,"RCD, etc v. govt",SubAfrica,0.196999997,4.199999809,30,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+143,ZMB1,Zimbabwe,1972,12,1979,12,"ZANU, ZAPU",SubAfrica,1.167999983,2.900000095,11,Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+144,ZMB2,Zimbabwe,1983,1,1987,12,Ndebele guerillas,SubAfrica,1.332000017,2.900000095,50,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Pre-1991
+145,CYP2,Cyprus,1974,7,1974,8,TCs; GCs; Turkish invasion,Eurasia,2.437000036,9,11,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+146,UGA2,Uganda,1978,10,1979,4,Tanzanian war,SubAfrica,0.601999998,9.399998665,23,Non-Marxist Insurgents,0,Conventional,Non-Ethnic CW,Pre-1991
+147,BUR2,Burundi,1972,4,1972,12,Hutu uprising (and govt massacres),SubAfrica,0.449999988,74.49998474,3,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Pre-1991
+148,ALG1,Algeria,1962,7,1963,1,"post-indepen strife, Kylie (border war?)",MENA,NA,3043,NA,Non-Marxist Insurgents,0,Irregular,Non-Ethnic CW,Pre-1991
+149,CHD4,Chad,2003,NA,NA,NA,MDJT,SubAfrica,0.385528833,8.5,30,Non-Marxist Insurgents,0,SNC,Ethnic CW,Post-1990
+150,IRQ6,Iraq,2003,3,NA,NA,US/Coalition occupation and Iraqi civil war,MENA,NA,5.999999523,424,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+151,THA2,Thailand,2004,1,NA,NA,Pachani; Pulo,Asia,5.484100819,5.400000095,306,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+152,SRI4,Sri Lanka,2003,NA,2009,NA,LTTE,Asia,3.151260853,7.300000191,121,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
+153,SUD3,Sudan,2003,NA,NA,NA,Darfur,SubAfrica,1.873473048,6.500000477,117,Non-Marxist Insurgents,0,SNC,Ethnic CW,Post-1990
+154,AFG4,Afghanistan,2001,10,NA,NA,Taliban vs. Gov't and US/NATO coalition,MENA,NA,65.6000061,400,Non-Marxist Insurgents,0,Irregular,Ethnic CW,Post-1990
+155,IVC,Ivory Coast,2002,9,2005,4,coup,SubAfrica,1.171149969,1752,14,Non-Marxist Insurgents,0,Conventional,Ethnic CW,Post-1990
